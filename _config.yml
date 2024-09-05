@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "~/immagini/cosimo_lavagna.png"
+  avatar           : "cosimo_lavagna.png"
   name             : "cosimo solidoro"
   pronouns         : # example: "she/her"  
   bio              : "phd in physical chemistry, transitioned in marine ecology and oceanography, ecosystem models and munerical methodolgies for environmental studies.
