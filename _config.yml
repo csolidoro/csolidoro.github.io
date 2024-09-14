@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "cosimo_img.png"
   name             : "cosimo solidoro"
   pronouns         : # example: "she/her"  
   bio              : "marine ecology and oceanography,  head of oceanography of the National Insitute of Oceanogrpahy and Apllied Geohpysic OGS"
